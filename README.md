@@ -1,7 +1,5 @@
 # Paul Bryant
 
-Author: Paul Bryant
-
 I work on infrastructure automation for VMware and Nutanix environments, using Python, PowerShell, Ansible, and NCLI. These repositories collect examples, safety improvements, and notes about the product versions they were written for.
 
 ## Repositories
